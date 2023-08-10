@@ -6,8 +6,8 @@ Senior Software Engineer with rich programming skills. <br/>
 Took part in development of many Desktop App, Web site and Mobile App.<br/>
 Well-versed in numerous programming languages including C++/C#, Java, Python, Qt, PHP, React JS, Node.js. <br/>
 Strong background in management of Project and Schedule. <br/>
-Self-starter, self-driven, self- motivated individual with the vision of helping businesses grow and meet targets<br/>
-#Experience
+Self-starter, self-driven, self- motivated individual with the vision of helping businesses grow and meet targets<br/><br/>
+# Experience<br/>
 • Took part in the development of File Security, USB Security, Print Controller Systems. (C++) ( 1/2006 - 9/2009) <br/>
 • Took part in the development of a Multimedia broadcasting system for Education. (C#, VLC) ( 1/2010 - 7/2010) <br/>
 • Took part in the Development of a Drug Management System. (JSP, JavaScript, MySQL) ( 3/2014 - 7/2016) <br/>

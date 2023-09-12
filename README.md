@@ -15,7 +15,7 @@ Self-starter, self-driven, self- motivated individual with the vision of helping
 • Took part in the development of a Multimedia broadcasting system for Education. (C#, VLC) ( 1/2010 - 7/2010) <br/>
 • Took part in the Development of a Drug Management System. (JSP, JavaScript, MySQL) ( 3/2014 - 7/2016) <br/>
 • Reverse Engineering Online MMORPG Game. (IDA, C++, API Hooking) (2017/4 – 11/2018) <br/>
-• Development and Management of betting sites. (CodeIgniter 3 and 4, React, Java, MySQL) (6/2017 – 10/2019) <br/>
+• Development and Management of betting sites. (CodeIgniter 3 and 4, React, Node.JS, Java, MySQL) (6/2017 – 10/2019) <br/>
 • Development of an Audio Library Management Tool on Windows and Mac. (C#/WPF/Avalonia, Objective-C) www.baseheadinc.com (11/2017 - 10/2021) <br/>
 • Development and Management and DDOS defense server. (Node.JS, Cloud Flare API) (5/2018 – 10/2019) <br/>
 • Development of some Android/iPhone projects using Xamarin, MAUI, Avalonia. (C#, Java) (11/2021 - 1/2023) <br/>
